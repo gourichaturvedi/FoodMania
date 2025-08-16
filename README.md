@@ -91,10 +91,6 @@ FoodMania/
   - `UserOrder` — Represents a user’s order, including items and charges.
   - `OrderItem` — Individual item in an order.
 
-## Contributing
-
-Fork the repo, make your changes, and submit a pull request!
-
 ## License
 
 *No license specified yet.*
@@ -105,4 +101,4 @@ Fork the repo, make your changes, and submit a pull request!
 
 ---
 
-> **Note:** This is a private repository.
+
